@@ -1,1 +1,5 @@
 data/
+my/
+segmentation/
+notebook/UNet/best_model.pth
+segmentation.zip
